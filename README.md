@@ -1,14 +1,5 @@
 # Pokedex- iOS
 
-## Table of Contents
-* [Description] (#description)
-* [Technologies]
-* [DEMO]
-* [Motivation]
-* [Setup]
-* [Code Examples]
-* [Features]
-
 ## Description
 Pokedex app is designed to catalogue and provide information regarding the various species of Pokémon featured in the Pokémon video game, anime and manga series. 
 
@@ -17,8 +8,12 @@ Swift
 SwiftUI 
 URLSession
 PokeAPI
+MVVM 
 
 ## Demo
+
+https://user-images.githubusercontent.com/51388551/143313231-346fc13e-3042-42ba-9d5b-092212914a89.mp4
+
 
 
 ## Motivation
