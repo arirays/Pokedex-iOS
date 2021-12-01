@@ -18,6 +18,7 @@ https://user-images.githubusercontent.com/51388551/143313231-346fc13e-3042-42ba-
 
 ## Motivation
 - Create an app using SwiftUI List with Custom Cell.
-- Fetching & Passing Data from API.
+- Interact with live API to fetch and display external information to the user.
+- Parse JSON data into Swift model objects.
 - Understand and use NavigationView/ NavigationLink that allows to navigate to a Detail view while passing data.
 - Understand and use Searchable method.
