@@ -13,7 +13,7 @@ Pokedex app is designed to catalogue and provide information regarding the vario
 ## Demo
 
 https://user-images.githubusercontent.com/51388551/143313231-346fc13e-3042-42ba-9d5b-092212914a89.mp4
-
+https://user-images.githubusercontent.com/51388551/165023753-42e00cb8-3338-43e9-8df0-1e5ddc8a41d9.mp4
 
 
 ## Motivation
@@ -22,3 +22,7 @@ https://user-images.githubusercontent.com/51388551/143313231-346fc13e-3042-42ba-
 - Parse JSON data into Swift model objects.
 - Understand and use NavigationView/ NavigationLink that allows to navigate to a Detail view while passing data.
 - Understand and use Searchable method.
+
+
+
+
