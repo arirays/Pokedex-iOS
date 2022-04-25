@@ -12,8 +12,7 @@ Pokedex app is designed to catalogue and provide information regarding the vario
 
 ## Demo
 
-https://user-images.githubusercontent.com/51388551/143313231-346fc13e-3042-42ba-9d5b-092212914a89.mp4
-
+https://user-images.githubusercontent.com/51388551/165024127-15ad9a42-4032-4ba1-b85c-7d700bc98058.mp4
 
 https://user-images.githubusercontent.com/51388551/165023869-b3b7164b-77bd-4c0a-98b9-deefaba1cafb.mp4
 
