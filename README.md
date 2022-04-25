@@ -15,6 +15,10 @@ Pokedex app is designed to catalogue and provide information regarding the vario
 https://user-images.githubusercontent.com/51388551/143313231-346fc13e-3042-42ba-9d5b-092212914a89.mp4
 
 
+https://user-images.githubusercontent.com/51388551/165023869-b3b7164b-77bd-4c0a-98b9-deefaba1cafb.mp4
+
+
+
 ## Motivation
 - Create an app using SwiftUI List with Custom Cell.
 - Interact with live API to fetch and display external information to the user.
